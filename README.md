@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <a href="https://beacons.ai/j0k3rD0ck3r">
+  <a href="https://github.com/j0k3rD0ck3r">
   <img height="180em" src="https:github-readme-stats.vercel.app/api?username=j0k3rD0ck3r$show_icons=false%theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https:github-readme-stats.vercel.app/api/top-langs/?username=j0k3rD0ck3r&layout=compact&langs_count=16&theme=dracula"/>
 </div>
