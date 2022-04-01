@@ -1,5 +1,6 @@
-## HII, I'm Aaron Moya!
-
+<div align="center", font-weight: "bolder">
+  HII, I'm Aaron Moya!
+</div>
 I'm a Informatic Engineering Student
 
 <div align="center">
