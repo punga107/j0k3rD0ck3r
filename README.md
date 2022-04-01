@@ -1,4 +1,4 @@
-## HII 🖖, I'm Aaron Moya!
+## HII, I'm Aaron Moya!
 
 I'm a Informatic Engineering Student
 
