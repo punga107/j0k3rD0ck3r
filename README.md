@@ -1,10 +1,13 @@
 <h2 align="center">
-  HII, I'm Aaron Moya!
+  HII, I'm Aaron Moya!🤖
 </h2>
   
 <div align="center">
 I'm a Informatic Engineering Student
 </div>
+
+- 🌱  I’m currently learning **Python and SQL**
+- 🐉  In my free times I read about **Hacking**
 
 <div align="center">
   <a href="https://github.com/j0k3rD0ck3r">
@@ -26,9 +29,9 @@ I'm a Informatic Engineering Student
   ##
 
 <div>
-  <a href="https://www.twitter.com/aaron_moya22" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-target="_blank"></a>
-<!--   <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style-for-the-badge&logo-discord8logoColor-white" target="_blank"></a> -->
+<!--   <a href="https://www.twitter.com/aaron_moya22" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+target="_blank"></a> -->
+  <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="mailto:contato@agm.moya@alumno.um.edu.ar"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <!--   <a href="https://..linkedin.com/in/rafaella-ballerini-45875e16a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style-for-the-badge&logo-linkedin&logoColor-white" target="_blank"></a> -->
   
