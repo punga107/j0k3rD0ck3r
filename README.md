@@ -17,7 +17,7 @@
   <img align="center" alt="Aaron-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Aaron-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Aaron-BASH" height="40" wldth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
-  <img align="right" alt="Aaron-yoda" height="150" wldth="100"src="https://c.tenor.com/fK0qAu06Y50AAAAC/pepe-hacker.gif">
+  <img align="right" alt="Aaron-yoda" height="130" wldth="100"src="https://c.tenor.com/fK0qAu06Y50AAAAC/pepe-hacker.gif">
 </div>
 
   ##
