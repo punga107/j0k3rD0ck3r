@@ -5,10 +5,9 @@ I'm a Informatic Engineering Student
 <div align="center">
   <a href="https://github.com/j0k3rD0ck3r">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=j0k3rD0ck3r&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0k3rD0ck3r&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0k3rD0ck3r&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-
+  
 <div style="display: inline block"><br>
   <img align="center" alt="Aaron-Python" height="40" wldth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Aaron-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
@@ -33,7 +32,7 @@ target="_blank"></a>
   <a href="mailto:contato@agm.moya@alumno.um.edu.ar"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <!--   <a href="https://..linkedin.com/in/rafaella-ballerini-45875e16a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style-for-the-badge&logo-linkedin&logoColor-white" target="_blank"></a> -->
   
-![snake animation](https://github.com/j0k3rD0ck3r/j0k3rD0ck3r/blob/output/github-contribution-grid-snake.svg)
+   ![snake animation](https://github.com/j0k3rD0ck3r/j0k3rD0ck3r/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
