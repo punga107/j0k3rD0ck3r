@@ -1,12 +1,11 @@
-<div align="center">
-<h2> HII 🖖, I'm Aaron Moya! <h2>
-</div>
+## HII 🖖, I'm Aaron Moya!
+
 I'm a Informatic Engineering Student
 
 <div align="center">
   <a href="https://github.com/j0k3rD0ck3r">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=j0k3rD0ck3r&theme=dark&show_icons=true"/></img>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0k3rD0ck3r&theme=dark&layout=compact"></img>  
+  <img height="150em" width="450em" src="https://github-readme-stats.vercel.app/api?username=j0k3rD0ck3r&theme=dark&show_icons=true"/></img>
+  <img height="150em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0k3rD0ck3r&theme=dark&layout=compact"></img>  
 </div>
 
 
