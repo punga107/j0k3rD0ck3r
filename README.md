@@ -2,9 +2,9 @@
   HII, I'm Aaron Moya!🤖
 </h2>
   
-<div align="center">
+<h3 align="center">
 I'm a Informatic Engineering Student
-</div>
+</h3>
 
 - 🌱  I’m currently learning **Python and SQL**
 - 🐉  In my free times I read about **Hacking**
