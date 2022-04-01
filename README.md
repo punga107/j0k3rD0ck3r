@@ -32,9 +32,10 @@ target="_blank"></a>
   <a href="mailto:contato@agm.moya@alumno.um.edu.ar"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <!--   <a href="https://..linkedin.com/in/rafaella-ballerini-45875e16a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style-for-the-badge&logo-linkedin&logoColor-white" target="_blank"></a> -->
   
+      ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
-![snake gif](https://github.com/j0k3rD0ck3r/j0k3rD0ck3r/blob/output/github-contribution-grid-snake.gif)
 
 
 
