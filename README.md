@@ -1,8 +1,8 @@
 <div align="center">
 <h2> HII 🖖, I'm Aaron Moya! <h2>
-  
-I'm a Informatic Engineering Student
 </div>
+I'm a Informatic Engineering Student
+
 <div align="center">
   <a href="https://github.com/j0k3rD0ck3r">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=j0k3rD0ck3r&theme=dark&show_icons=true"/></img>
