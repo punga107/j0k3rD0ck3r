@@ -1,5 +1,5 @@
 <div align="center">
-<h1> HII 🖖, I'm Aaron Moya! <h1>
+<h2> HII 🖖, I'm Aaron Moya! <h2>
   
 I'm a Informatic Engineering Student
 </div>
