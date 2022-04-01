@@ -1,7 +1,9 @@
-<div align="center", font-weight: "bolder">
+<div align="center"; font-weight: "bolder">
   HII, I'm Aaron Moya!
 </div>
+<div align="center">
 I'm a Informatic Engineering Student
+</div>
 
 <div align="center">
   <a href="https://github.com/j0k3rD0ck3r">
