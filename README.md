@@ -22,10 +22,6 @@ I'm a Informatic Engineering Student
   ##
 
 <div>
-<!--   <a href="https://www.youtube.com/channel/UC-uuuZbYOAAŁ9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FFee00?style-for-the-badgeklog0-youtube&logoColor-white targetblank"></a> -->
-<!--   <a href="https://instagram.com/aaron_moya22" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-<!--   <a href="https://ww.twitch.tv/rafaballerinii" target="blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style-for-the-badge&logo-twitch&logoColor-white"
-target="_blank"></a> -->
   <a href="https://www.twitter.com/aaron_moya22" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
 target="_blank"></a>
 <!--   <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style-for-the-badge&logo-discord8logoColor-white" target="_blank"></a> -->
