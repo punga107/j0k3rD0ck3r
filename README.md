@@ -31,7 +31,7 @@ I'm a Informatic Engineering Student
 <div>
 <!--   <a href="https://www.twitter.com/aaron_moya22" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
 target="_blank"></a> -->
-  <a href="https://discord.com/959443108469293186" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/Efvermwe" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="mailto:contato@agm.moya@alumno.um.edu.ar"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <!--   <a href="https://..linkedin.com/in/rafaella-ballerini-45875e16a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style-for-the-badge&logo-linkedin&logoColor-white" target="_blank"></a> -->
   
