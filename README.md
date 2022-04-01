@@ -1,4 +1,4 @@
-<div align="center"; font-weight: "bolder">
+<div align="center", font-weight: "bolder">
   HII, I'm Aaron Moya!
 </div>
 <div align="center">
