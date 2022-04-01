@@ -1,6 +1,7 @@
-<div align="center">
+<h2 align="center">
   HII, I'm Aaron Moya!
-</div>
+</h2>
+  
 <div align="center">
 I'm a Informatic Engineering Student
 </div>
