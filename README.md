@@ -6,7 +6,7 @@
 I'm a Informatic Engineering Student
 </h3>
 
-- 🌱  I’m currently learning **Python, SQL..**
+- 🌱  I’m currently learning **Python, SQL, Bash, ...**
 - 🐉  In my free times I read about **Hacking**
 
 <div align="center">
